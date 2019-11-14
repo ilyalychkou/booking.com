@@ -1,0 +1,865 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f44bbf38-09ca-4767-adff-50540c7bab3e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/.idea/libraries/java_client_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/.idea/libraries/selenium_server_standalone_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/tests/AccommodationTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/tests/CarRentalTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/tests/CoreTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/tests/FlightTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/tests/MyListsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/tests/Platform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/tests/ToursAndActivitiesTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/AccommodationPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/AuthorizationPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/CarRentalPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/FlightsPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/LocationPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/MainPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/MyListsPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/NavigationUI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/ToursAndActivitiesPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/factories/AccommodationPageObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/factories/AuthorizationPageObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/factories/CarRentalPageObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/factories/FlightsPageObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/factories/LocationPageObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/factories/MyListsPageObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/factories/NavigationUIFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../EPAMTestTask(booking.com)/src/ui/factories/ToursAndActivitiesPageObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises for EPAM_AUTOMATION_TESTING_TRANING/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises for EPAM_AUTOMATION_TESTING_TRANING/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises for EPAM_AUTOMATION_TESTING_TRANING/src/MainTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises for EPAM_AUTOMATION_TESTING_TRANING/src/OptionalTask1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises for EPAM_AUTOMATION_TESTING_TRANING/src/OptionalTask2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercises for EPAM_AUTOMATION_TESTING_TRANING/src/StringLengthSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/people.bin" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/Collections/ArrayListExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/Collections/EnumExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/Collections/MapExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/Collections/PropertiesExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/Collections/SetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/Collections/TreeSetExample.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/CountriesLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/Interfaces/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/Person.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/ReadFromFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/Utils/Date.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/WriteObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/WriteToFile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/demo_pack4/Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/demo_pack4/Collections.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/demo_pack4/Generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/demo_pack4/Strings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/demo_pack4/TestGeneric.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/demo_pack_2/ArrayOfStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/demo_pack_2/Arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/demo_pack_2/MultiDimArrrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/demo_pack_3/DemoClass5.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/demo_pack_3/DemoClass7.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/demo_pack_3/DemoClass8.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JAVA EXECISES/src/demo_pack_3/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaAppium/src/test/java/suites/TestSuite.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginTest/.idea/libraries/java_client_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginTest/.idea/libraries/selenium_server_standalone_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginTest/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginTest/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginTest/src/lib/CoreTestCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginTest/src/lib/Platform.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginTest/src/lib/tests/LoginTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginTest/src/lib/ui/LoginPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginTest/src/lib/ui/MainPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginTest/src/lib/ui/factories/LoginPageObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../LoginTest/src/lib/ui/mobile_web/MWLoginPageObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject1/.idea/libraries/google_api_java_client.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject1/.idea/libraries/mysql_connector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject1/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject1/NewProject1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject1/src/Database.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../NewProject1/test/test.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWAPITests/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWAPITests/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWAPITests/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SWAPITests/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TariffChecker/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TariffChecker/.idea/libraries/mysql_connector.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TariffChecker/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TariffChecker/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TariffChecker/src/main/java/services/InboundService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TariffChecker/src/main/java/services/InternalService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TariffChecker/src/main/java/services/OutboundService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TariffChecker/src/main/java/services/Services.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TariffChecker/src/main/resources/credentials.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TariffChecker/src/test/java/InboundTariffTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TariffChecker/src/test/java/InternalTariffsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../TariffChecker/src/test/java/OutboundTariffsTests.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comilyalychkoutestproject(epam)/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comilyalychkoutestproject(epam)/.idea/libraries/java_client_4_1_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comilyalychkoutestproject(epam)/.idea/libraries/junit_4_12.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comilyalychkoutestproject(epam)/.idea/libraries/selenium_server_standalone_3_4_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../comilyalychkoutestproject(epam)/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/ui/factories/AccommodationPageObjectFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../training" afterDir="false" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="isMigrated" value="true" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/AccommodationTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/ToursAndActivitiesTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ui/ToursAndActivitiesPageObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="390">
+              <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/CarRentalTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/java/tests/FlightTests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="87">
+              <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ui/MainPageObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="jar://$USER_HOME$/Desktop/libs/selenium-server-standalone-3.4.0.jar!/org/openqa/selenium/support/ui/WebDriverWait.class">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="75">
+              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="375">
+              <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ui/AccommodationPageObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="45">
+              <caret line="3" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/main/java/ui/LocationPageObject.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="23" selection-start-line="23" selection-end-line="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/tests/CarRentalTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/CoreTestCase.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/FlightTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/MyListsTests.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/Platform.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/ToursAndActivitiesTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/NavigationUI.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/MyListsPageObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/LocationPageObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/FlightsPageObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/CarRentalPageObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/AuthorizationPageObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/ToursAndActivitiesPageObject.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/factories/AccommodationPageObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/factories/AuthorizationPageObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/factories/CarRentalPageObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/factories/FlightsPageObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/factories/LocationPageObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/factories/MyListsPageObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/factories/NavigationUIFactory.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/factories/ToursAndActivitiesPageObjectFactory.java" />
+        <option value="$PROJECT_DIR$/src/test/java/tests/AccommodationTests.java" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/AccommodationPageObject.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/src/main/java/ui/MainPageObject.java" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="~/maven/" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6" fullScreen="true">
+    <option name="width" value="1440" />
+    <option name="height" value="900" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="comilyalychkoutesttask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comilyalychkoutesttask" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comilyalychkoutesttask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comilyalychkoutesttask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comilyalychkoutesttask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comilyalychkoutesttask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comilyalychkoutesttask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comilyalychkoutesttask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comilyalychkoutesttask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comilyalychkoutesttask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comilyalychkoutesttask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comilyalychkoutesttask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="ui" type="462c0819:PsiDirectoryNode" />
+              <item name="factories" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comilyalychkoutesttask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comilyalychkoutesttask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comilyalychkoutesttask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comilyalychkoutesttask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comilyalychkoutesttask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="comilyalychkoutesttask" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="tests" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="comilyalychkoutesttask" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3873563" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.ToursAndActivitiesTests.testSearchForTourAndCheckResultByTitle">
+    <configuration name="AccommodationTests.testCheckAvailabilityOfRoom" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="comilyalychkoutesttask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.AccommodationTests" />
+      <option name="METHOD_NAME" value="testCheckAvailabilityOfRoom" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="PLATFORM" value="mobile_web" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CarRentalTests.testAgePlaceholderDisplayedWhenDriverAgedBetweenCheckboxUnChecked" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="comilyalychkoutesttask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.CarRentalTests" />
+      <option name="METHOD_NAME" value="testAgePlaceholderDisplayedWhenDriverAgedBetweenCheckboxUnChecked" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="PLATFORM" value="mobile_web" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FlightTests.testCheckErrorMessageForInvalidOriginAirport" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="comilyalychkoutesttask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.FlightTests" />
+      <option name="METHOD_NAME" value="testCheckErrorMessageForInvalidOriginAirport" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="PLATFORM" value="mobile_web" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ToursAndActivitiesTests.testSearchForTourAndCheckResultByTitle" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="comilyalychkoutesttask" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="tests.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="tests" />
+      <option name="MAIN_CLASS_NAME" value="tests.ToursAndActivitiesTests" />
+      <option name="METHOD_NAME" value="testSearchForTourAndCheckResultByTitle" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="PARAMETERS" value="" />
+      <envs>
+        <env name="PLATFORM" value="mobile_web" />
+      </envs>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.AccommodationTests.testCheckAvailabilityOfRoom" />
+      <item itemvalue="JUnit.CarRentalTests.testAgePlaceholderDisplayedWhenDriverAgedBetweenCheckboxUnChecked" />
+      <item itemvalue="JUnit.FlightTests.testCheckErrorMessageForInvalidOriginAirport" />
+      <item itemvalue="JUnit.ToursAndActivitiesTests.testSearchForTourAndCheckResultByTitle" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.ToursAndActivitiesTests.testSearchForTourAndCheckResultByTitle" />
+        <item itemvalue="JUnit.FlightTests.testCheckErrorMessageForInvalidOriginAirport" />
+        <item itemvalue="JUnit.CarRentalTests.testAgePlaceholderDisplayedWhenDriverAgedBetweenCheckboxUnChecked" />
+        <item itemvalue="JUnit.AccommodationTests.testCheckAvailabilityOfRoom" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f44bbf38-09ca-4767-adff-50540c7bab3e" name="Default Changelist" comment="" />
+      <created>1573732093999</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573732093999</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="AccommodationTests_testCheckAvailabilityOfRoom - 2019.11.14 at 15h 13m 01s.xml">
+      <configuration name="AccommodationTests.testCheckAvailabilityOfRoom" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccommodationTests_testCheckAvailabilityOfRoom - 2019.11.14 at 15h 14m 00s.xml">
+      <configuration name="AccommodationTests.testCheckAvailabilityOfRoom" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="AccommodationTests_testCheckAvailabilityOfRoom - 2019.11.14 at 16h 24m 35s.xml">
+      <configuration name="AccommodationTests.testCheckAvailabilityOfRoom" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarRentalTests_testAgePlaceholderDisplayedWhenDriverAgedBetweenCheckboxUnChecked - 2019.11.14 at 16h 24m 44s.xml">
+      <configuration name="CarRentalTests.testAgePlaceholderDisplayedWhenDriverAgedBetweenCheckboxUnChecked" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CarRentalTests_testAgePlaceholderDisplayedWhenDriverAgedBetweenCheckboxUnChecked - 2019.11.14 at 16h 25m 26s.xml">
+      <configuration name="CarRentalTests.testAgePlaceholderDisplayedWhenDriverAgedBetweenCheckboxUnChecked" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="FlightTests_testCheckErrorMessageForInvalidOriginAirport - 2019.11.14 at 16h 26m 44s.xml">
+      <configuration name="FlightTests.testCheckErrorMessageForInvalidOriginAirport" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ToursAndActivitiesTests_testSearchForTourAndCheckResultByTitle - 2019.11.14 at 16h 27m 36s.xml">
+      <configuration name="ToursAndActivitiesTests.testSearchForTourAndCheckResultByTitle" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="ToursAndActivitiesTests_testSearchForTourAndCheckResultByTitle - 2019.11.14 at 16h 28m 35s.xml">
+      <configuration name="ToursAndActivitiesTests.testSearchForTourAndCheckResultByTitle" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1440" height="900" extended-state="0" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.3211731" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32961586" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" sideWeight="0.49928468" visible="true" weight="0.42627013" />
+      <window_info anchor="bottom" id="Terminal" order="8" weight="0.32961586" />
+      <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.5007153" side_tool="true" visible="true" weight="0.42627013" />
+      <window_info anchor="bottom" id="Messages" order="10" weight="0.32961586" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Codota" order="4" />
+      <window_info anchor="right" id="Maven" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+    </layout>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/MyListsTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="36" selection-start-line="36" selection-end-line="36" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/Platform.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1005">
+          <caret line="71" selection-start-line="71" selection-end-line="71" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/CoreTestCase.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/NavigationUI.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/MyListsPageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" selection-start-line="18" selection-end-line="22" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/FlightsPageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-305">
+          <caret line="18" column="44" selection-start-line="18" selection-start-column="44" selection-end-line="18" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/CarRentalPageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="17" selection-start-line="17" selection-end-line="20" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/AuthorizationPageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="25" lean-forward="true" selection-start-line="11" selection-start-column="25" selection-end-line="11" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/factories/AccommodationPageObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#231#232#0" expanded="true" />
+            <element signature="e#298#299#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/factories/AuthorizationPageObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/factories/CarRentalPageObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/factories/FlightsPageObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/factories/LocationPageObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/factories/MyListsPageObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/factories/NavigationUIFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/factories/ToursAndActivitiesPageObjectFactory.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/AccommodationTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="19" column="26" selection-start-line="19" selection-start-column="26" selection-end-line="19" selection-end-column="26" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/ToursAndActivitiesTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="23" column="44" selection-start-line="23" selection-start-column="44" selection-end-line="23" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/ToursAndActivitiesPageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="32" column="32" selection-start-line="32" selection-start-column="32" selection-end-line="32" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/AccommodationPageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="45">
+          <caret line="3" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/LocationPageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/Desktop/libs/selenium-server-standalone-3.4.0.jar!/org/openqa/selenium/support/ui/WebDriverWait.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="25" column="29" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/ui/MainPageObject.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="28" lean-forward="true" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/CarRentalTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/tests/FlightTests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="87">
+          <caret line="19" column="44" lean-forward="true" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>selenium-server-standalone-3.4.0</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.3873563" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
